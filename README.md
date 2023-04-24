@@ -22,3 +22,5 @@ Meu objetivo Neste código é colocar todos os meus conhecimentos de Ciencia de 
 5. Por meio dos histogramas, é possível afirmar que a população branca tira notas melhores que a população negra, onde a média das notas dos brancos acima de 500 pontos é muito superior à da população negra proporcionalmente. Já a população negra possui mais pessoas abaixo de 500 pontos proporcionalmente do que a população branca.
 
 6. Os histogramas financeiros revelaram que a nota das pessoas que ganham até 5 salários mínimos está diminuindo em relação aos anos anteriores.
+# Base de dados online
+https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
